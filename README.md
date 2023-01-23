@@ -1,2 +1,2 @@
 # JavaScript
-Learning / stuff i do with javascript
+stuff i do with javascript
